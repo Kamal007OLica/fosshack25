@@ -28,10 +28,11 @@ What we solve?
 
   [You can access, product here! ](https://preview--timeaify.lovable.app/) 
     
-  
 
-Product Demo Snap  
-![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18 | width=100)
+
+<h3>Product Demo Snap</h3>
+![Product TImeaify Snap](https://github.com/user-attachments/assets/6831969a-ac90-4ac4-9c25-66a925c82731)
+
 
 <h2> Dev note </h2>
 Dear Foss India Team,   
