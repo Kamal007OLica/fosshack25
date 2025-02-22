@@ -11,3 +11,13 @@ Timeaify, An open source AI Automatic Time tracking software that helps students
 
 
 "My mission is to create the experience of the flow State(xflows) on every working hours"
+
+###Product Overview 
+
+What we solve?
+- effortlessly enter flow State - automated AI time tracker 
+- Enforce reinforcement immediate positive cycle 
+- Add session log for improving productivity.
+
+Product Walk through 
+https://youtu.be/JSmzzVhZ2g8
