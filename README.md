@@ -33,6 +33,10 @@ What we solve?
 Product Demo Snap
 ![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18)  
 
+<h4> Dev note </h4>
+Dear Foss India Team,   
+I'm a complete beginner to development as I was been in desiging for years, This appilcation is built with Lovable AI tool and also I'm not aware of hackthons, Just exploring but I like to be part of this endeavour of selfless giving in FOSS Community. Someday I will contribute something bigger. Better. <3 
+
 
 <h2> License </h2>  
 
