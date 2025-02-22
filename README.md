@@ -25,8 +25,9 @@ What we solve?
 
 [![Product Demo](https://img.youtube.com/vi/JSmzzVhZ2g8/0.jpg)](https://www.youtube.com/watch?v=JSmzzVhZ2g8)
 
-You can access, product here!  
-https://preview--timeaify.lovable.app/  
+
+  [You can access, product here! ](https://preview--timeaify.lovable.app/) 
+    
   
 
 Product Demo Snap
