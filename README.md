@@ -31,7 +31,7 @@ What we solve?
   
 
 Product Demo Snap
-![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18)  
+![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18)
 
 <h2> Dev note </h2>
 Dear Foss India Team,   
