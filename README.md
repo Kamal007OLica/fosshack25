@@ -10,7 +10,7 @@ Timeaify, An open source AI Automatic Time tracking software that helps students
 - So I built Focuz! 
 
 
-"My mission is to create the experience of the flow State(xflows) on every working hours"
+"My mission is to create the experience of the flow State(xflows) on every working hours"  
 
 ---
 
@@ -24,3 +24,17 @@ What we solve?
 **Product Walk through**
 
 [![Product Demo](https://img.youtube.com/vi/JSmzzVhZ2g8/0.jpg)](https://www.youtube.com/watch?v=JSmzzVhZ2g8)
+
+You can access, product here!  
+https://preview--timeaify.lovable.app/  
+  
+
+Product Demo Snap
+![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18)
+
+
+<h2> License </h2>  
+
+This project is released under the **Apache License**. Please review the Apache License for more details. Kamal here, you can catch me here LinkedIn! 
+![image](https://github.com/user-attachments/assets/00800890-b75c-4970-b0fa-c72e8e574384)
+
