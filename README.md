@@ -31,11 +31,14 @@ What we solve?
   
 
 Product Demo Snap
-![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18)
+![Product TImeaify Snap](https://github.com/user-attachments/assets/8fb367fa-6602-4453-bc44-e30c6abf3c18)  
 
 
 <h2> License </h2>  
 
-This project is released under the **Apache License**. Please review the Apache License for more details. Kamal here, you can catch me here LinkedIn! 
+This project is released under the **Apache License**. Please review the Apache License for more details. Kamal here, 
+[you can catch me here LinkedIn!! ! ](https://www.linkedin.com/in/kamalraaj07/) 
+
+  
 ![image](https://github.com/user-attachments/assets/00800890-b75c-4970-b0fa-c72e8e574384)
 
