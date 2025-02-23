@@ -29,7 +29,7 @@ What we solve?
   [You can access, product here! ](https://preview--timeaify.lovable.app/) 
     
 
-
+---
 <h3>Product Demo Snap</h3>
   
 ![Product TImeaify Snap](https://github.com/user-attachments/assets/4efeda49-f92e-4b86-9c61-76363bfbcfb5)
