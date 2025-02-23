@@ -7,7 +7,7 @@ Timeaify, An open source AI Automatic Time tracking software that helps students
 ## Why I build Focus.io?
 - Attention span is all-time low, short-form content making it even worser.
 - checked tools out there, No tools provide end-to-end solution & rize.io looks better BUT IT's PROPERIATORY & Cost $156/year. 
-- So I built Focuz! 
+- So I built Timeaify!
 
 
 "My mission is to create the experience of the flow State(xflows) on every working hours"  
