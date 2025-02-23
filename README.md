@@ -12,7 +12,7 @@ Timeaify, An open source AI Automatic Time tracking software that helps students
 
 "My mission is to create the experience of the flow State(xflows) on every working hours"  
 
-
+---
 
 <h2> Product Overview </h2>
 
